@@ -66,10 +66,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-## Author
-
-GitHub Copilot
-
----
-
-Feel free to customize this README to better fit your project's needs.
